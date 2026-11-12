@@ -1,4 +1,4 @@
-# Sistema de Gestão de Resíduos Sólidos (Prefeitura de Amparo)
+# Registros de uso de IA
 
 ## 📖 Descrição
 Desenvolvido para atender a uma demanda de pesquisa da Faculdade de Jauariúna, este sistema tem como objetivo catalogar e monitorar o uso de Inteligência Artificial em empresas, escolas e outros setores. A aplicação registra finalidades, tecnologias, revisões humanas e níveis de risco, oferecendo uma visão organizada sobre a adoção dessas tecnologias. O projeto foi desenvolvido em aula visando estudo e desenvolvimento de habilidades no curso *Desenvolviemento de Sistemas SENAI*.
