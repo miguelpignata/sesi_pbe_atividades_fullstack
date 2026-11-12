@@ -47,7 +47,7 @@ O diagrama de entidades e relacionamentos (MER DER) modela as tabelas de `usuari
 
 ---
 
-## 🧪 Prints dos Testes (Thunder Client / Insomnia)
+## 🧪 Prints dos Testes (Thunder Client)
 
 ### 📌 Testes de Rotas e Usuários
 * **Teste da Rota Inicial:**
