@@ -1,6 +1,6 @@
-# Portfólio de Atividades Full Stack - PBE (SESI)
+# Atividades PBE Full Stack - PBE (SENAI)
 
-Repositório unificado desenvolvido para as aulas de Programação de Back-End (PBE) do SESI, contendo projetos de APIs RESTful estruturadas em arquitetura **MVC (Model-View-Controller)** utilizando **Node.js**, **Express** e persistência de dados com **MariaDB / MySQL**.
+Repositório unificado desenvolvido para as aulas de Programação de Back-End (PBE) do Senai, contendo projetos de APIs RESTful estruturadas em arquitetura **MVC (Model-View-Controller)** utilizando **Node.js**, **Express** e persistência de dados com **MariaDB / MySQL**.
 
 ---
 
