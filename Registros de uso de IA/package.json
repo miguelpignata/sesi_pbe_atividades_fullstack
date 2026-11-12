@@ -1,0 +1,19 @@
+{
+  "name": "backend_usos_ia",
+  "version": "1.0.0",
+  "description": "Sistema para registrar usos de Inteligência Artificial",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "miguelpignata",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql": "^2.18.1"
+  }
+}
