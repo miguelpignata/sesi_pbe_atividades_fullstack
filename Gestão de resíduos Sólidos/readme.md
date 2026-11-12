@@ -78,4 +78,4 @@ O diagrama de entidades e relacionamentos (MER DER) modela as tabelas de `usuari
   ![Atualizar Ocorrência](./imagens/Prints/Ocorrencia/atualizar_ocorrencia.png)
 
 * **Resumo de Ocorrências Tratadas:**
-  ![Resumir Ocorrência](./imagens/Prints/Ocorrencia/resumir_ocorrencia.png)#
+  ![Resumir Ocorrência](./imagens/Prints/Ocorrencia/resumir_ocorrencia.png)
